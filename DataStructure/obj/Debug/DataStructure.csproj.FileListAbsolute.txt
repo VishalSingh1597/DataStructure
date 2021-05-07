@@ -1,0 +1,7 @@
+E:\DataStructure\DataStructure\bin\Debug\DataStructure.exe.config
+E:\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+E:\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+E:\DataStructure\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+E:\DataStructure\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+E:\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+E:\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
